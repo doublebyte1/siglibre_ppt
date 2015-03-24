@@ -1,0 +1,4 @@
+pdflatex siglibre_ppt
+pdflatex siglibre_ppt
+okular siglibre_ppt.pdf
+
